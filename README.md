@@ -4,6 +4,7 @@
 - Graduated Most Improved in class from SMU Data Science Bootcamp
 - Strong Calculus background 
 - Proficient in Python, SQL, JavaScript/HTML
+- Versed in Microsoft Office
 
 <!--
 **jakedcook/jakedcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
