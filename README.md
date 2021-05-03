@@ -1,6 +1,6 @@
 ## About Me
 
-- Educational background in Mathematics and Engineering
+- Educational background in Mathematics
 - Graduated Most Improved in class from SMU Data Science Bootcamp
 - Strong Calculus background 
 - Proficient in Python, SQL, JavaScript/HTML
