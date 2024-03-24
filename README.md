@@ -2,7 +2,7 @@
 
 - Pursing Bachelor of Science in Data Science from Indiana University. May 2025 Graduation
 - Graduated Most Improved in class from SMU Data Science Bootcamp - 2020
-- Strong Calculus background 
+- Strong Mathmatics background 
 - Proficient in Python, SQL, R 
 - Versed in Microsoft Office
 
