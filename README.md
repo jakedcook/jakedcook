@@ -1,10 +1,10 @@
 ## About Me
 
-- Pursing Bachelor of Science in Data Science from Indiana University. May 2025 Graduation
+- Pursuing a Bachelor of Science in Data Science from Indiana University - Indianapolis. May 2025 Graduation
 - Graduated Most Improved in class from SMU Data Science Bootcamp - 2020
-- Strong Mathmatics background 
+- Strong Mathematics background 
 - Proficient in Python, SQL, R 
-- Versed in Microsoft Office
+- Versed in Excel
 
 <!--
 **jakedcook/jakedcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
