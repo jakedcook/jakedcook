@@ -4,7 +4,7 @@
 📊 SMU Data Science Bootcamp alum – awarded "We Never Stop Improving" Core Value Award (2020)  
 💡 Aspiring Data Engineer with a strong foundation in Python, SQL, and data pipelines  
 🛠️ Experienced with R, Tableau, Flask, PostgreSQL, and dashboard development  
-🔄 Currently expanding skills in PySpark, AWS, and distributed systems  
+🔄 Currently expanding skills in PySpark, AWS, and distributed data processing  
 📁 Explore my pinned projects for live dashboards, machine learning models, and ETL workflows
 
 <!--
