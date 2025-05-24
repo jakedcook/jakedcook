@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jake Cook
+# 👋 Hi, I'm Jake
 
 🎓 B.S. in Data Science | Aspiring Cloud Data Engineer  
 🛠️ Skills: Python, SQL, Flask, Tableau, AWS  
