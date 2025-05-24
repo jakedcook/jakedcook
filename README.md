@@ -1,11 +1,20 @@
-## About Me
+# 👋 Hi, I'm Jake Cook
 
-🎓 Recent B.S. Data Science graduate from Indiana University Indianapolis (May 2025)  
-📊 SMU Data Science Bootcamp alum – awarded "We Never Stop Improving" Core Value Award (2020)  
-💡 Aspiring Data Engineer with a strong foundation in Python, SQL, and data pipelines  
-🛠️ Experienced with R, Tableau, Flask, PostgreSQL, and dashboard development  
-🔄 Currently expanding skills in PySpark, AWS, and distributed data processing  
-📁 Explore my pinned projects for live dashboards, machine learning models, and ETL workflows
+🎓 B.S. in Data Science | Aspiring Cloud Data Engineer  
+🛠️ Skills: Python, SQL, Flask, Tableau, AWS  
+📚 SMU Data Science Bootcamp Alum  
+🚀 Building ETL pipelines and interactive dashboards  
+📍 Based in Arlington, TX
+
+## 🔧 Projects
+
+- **EV Buyers Guide**: Interactive dashboard built with R Shiny to assist consumers in selecting electric vehicles.
+- **Bitcoin Price Predictor**: Machine learning model using Scikit-Learn to predict Bitcoin prices.
+- **State Trends Dashboard**: Visualization of migration and socioeconomic trends using D3.js and Flask.
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/jakedcook/) | [Email](mailto:jakedcook6@gmail.com)
 
 <!--
 **jakedcook/jakedcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
