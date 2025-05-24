@@ -1,10 +1,11 @@
 ## About Me
 
-- Pursuing a Bachelor of Science in Data Science from Indiana University - Indianapolis. May 2025 Graduation
-- Graduated Most Improved in class from SMU Data Science Bootcamp - 2020
-- Strong Mathematics background 
-- Proficient in Python, SQL, R 
-- Versed in Excel
+🎓 Recent B.S. Data Science graduate from Indiana University Indianapolis (May 2025)  
+📊 SMU Data Science Bootcamp alum – awarded "We Never Stop Improving" Core Value Award (2020)  
+💡 Aspiring Data Engineer with a strong foundation in Python, SQL, and data pipelines  
+🛠️ Experienced with R, Tableau, Flask, PostgreSQL, and dashboard development  
+🔄 Currently expanding skills in PySpark, AWS, and distributed systems  
+📁 Explore my pinned projects for live dashboards, machine learning models, and ETL workflows
 
 <!--
 **jakedcook/jakedcook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
